@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://hifeoluwacool.github.io/myportfoli"
+  "homepage": "https://hifeoluwacool.github.io/myportfoli",
   "dependencies": {
     "gh-pages": "^3.0.0"
   }
